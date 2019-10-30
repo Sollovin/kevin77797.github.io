@@ -1,52 +1,251 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Hollow&#39;s Reserved Cabin</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Posts on Hollow&#39;s Reserved Cabin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 02 Jan 2019 13:50:51 +0000</lastBuildDate>
-    
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>给老爸老妈的一封信</title>
-      <link>https://example.com/posts/20190102-lettertoparents/</link>
-      <pubDate>Wed, 02 Jan 2019 13:50:51 +0000</pubDate>
-      
-      <guid>https://example.com/posts/20190102-lettertoparents/</guid>
-      <description>机缘巧合。 敬爱的老爸老妈， 昨夜与你们通电话后，思虑良久，感觉最近与你们沟通有些困难。既然出现了困难，想必是沟通得太少了。 辗转反侧，觉有必要向</description>
-    </item>
-    
-    <item>
-      <title>电子书的命名与归类</title>
-      <link>https://example.com/posts/20180829-ebookclassify/</link>
-      <pubDate>Wed, 29 Aug 2018 22:02:58 +0000</pubDate>
-      
-      <guid>https://example.com/posts/20180829-ebookclassify/</guid>
-      <description>现在我们肯定会在电脑上存储各种各样的电子资源，为这些资源进行有逻辑的命名与归类肯定有助于我们在需要的时候进行查找，下面我以电子书为例，谈谈我</description>
-    </item>
-    
-    <item>
-      <title>生活不只是眼前的苟且，还有诗和远方</title>
-      <link>https://example.com/posts/20180807-rightherefaraway/</link>
-      <pubDate>Tue, 07 Aug 2018 00:25:16 +0000</pubDate>
-      
-      <guid>https://example.com/posts/20180807-rightherefaraway/</guid>
-      <description>朋友，干了这碗毒鸡汤吧。 今天值公寓岗的时候，和值班阿姨聊了会儿天。在晚上值班快要结束的时候，阿姨突然问我说：“你说为什么我的心怎么老是静不下</description>
-    </item>
-    
-    <item>
-      <title>斐讯 K2 刷 LEDE 并配置 MentoHUST &amp; IPv6</title>
-      <link>https://example.com/posts/20180706-phicomledeipv6/</link>
-      <pubDate>Fri, 06 Jul 2018 00:49:38 +0000</pubDate>
-      
-      <guid>https://example.com/posts/20180706-phicomledeipv6/</guid>
-      <description>前几天正值考试之际，我他喵的居然刷起了路由器，真的是罪过罪过。 前置条件 由于斐讯的原厂系统基本不能满足各种折腾的需要，因此刷系统是必须的。一般</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on Hollow&#39;s Reserved Cabin</title>
+		<link>https://example.com/posts/</link>
+		<description>Recent content in Posts on Hollow&#39;s Reserved Cabin</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Wed, 02 Jan 2019 13:50:51 +0000</lastBuildDate>
+		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>给老爸老妈的一封信</title>
+			<link>https://example.com/posts/20190102-lettertoparents/</link>
+			<pubDate>Wed, 02 Jan 2019 13:50:51 +0000</pubDate>
+			
+			<guid>https://example.com/posts/20190102-lettertoparents/</guid>
+			<description>机缘巧合。 敬爱的老爸老妈， 昨夜与你们通电话后，思虑良久，感觉最近与你们沟通有些困难。既然出现了困难，想必是沟通得太少了。 辗转反侧，觉有必要向</description>
+			<content type="html"><![CDATA[<p>机缘巧合。</p>
+<!-- more -->
+<hr />
+<p>敬爱的老爸老妈，</p>
+<p>昨夜与你们通电话后，思虑良久，感觉最近与你们沟通有些困难。既然出现了困难，想必是沟通得太少了。<br />
+辗转反侧，觉有必要向你们反映一下我最近的想法与态度，故有此家书。</p>
+<p>先是电动车一事。在我看来，你们的出发点有两点。其一，即俗话所言「无功不受禄」；其二，是考虑到 K 哥他在社会上打拼实属不易，贸然从他那接受这样一份价值昂贵的（姑且称之为）礼物，从道义上讲，显得不甚妥当。<br />
+但是，从我了解到的情况，我站在 K 哥的角度有如下分析。首先 K 哥前段时间辞去了工作，这几天武汉租赁的房屋也快到期，再加上听说嫂子已怀孕，再加上晚上吃饭时的交谈，我感觉他近几个月都不会在武汉，所以想必他在武汉的很多事物都需要处理。<br />
+那么说回电动车，想必若是放在武汉不管，自然是不妥当的；若是带回罗田，麻烦不说，似乎也用不上；那么比较好的处理办法就是交由他人代为保管了。<br />
+所以，K 哥既然愿意交给我自然是看得起我，更何况我偶尔也是能够用上的，那么就不如顺其意思收下。<br />
+当然我也有跟他说：「先放在我这，日后若是需要，再来拿去便是」。<br />
+说实话，我私以为这种话说起来是很没有意思的。为什么呢？因为将来之事谁又能说清楚呢？不过，这里可能有我的些许任性在里面吧。<br />
+这里举个例子，以前和同学出行，别的同学总是抢着付钱，而我总是想着 AA。为什么呢？因为我不喜欢欠人情。当然了，事情的结果往往是抢着付钱的同学跟我说算了算了我请了。这时候我往往会心里有些过意不去，然而却又无可奈何。所以只能想着以后有机会再还吧，还是欠下了人情。<br />
+这样的事情次数多了之后，我也渐渐理解了，私以为这种你请来我请去，你来我往，不就是人情世故的一种吗？<br />
+说回正题，对于将来，如果能够按照我的喜好发展，自是 K 哥有需要我再把车还过去；若是还不成，那就只能留待其他时候再以其他形式还上这一份恩情罢了。<br />
+以上即我对此事的看法与决定，不知你们有何意见看法。</p>
+<p>再来说近半年你们每次打电话都要说的早睡一事。首先，没能早睡是我不对，这一点我无法反驳。然后，对于做错了的事，找理由也不是一种好的行为。<br />
+但是，请原谅我在这里还是要提出两点理由。其一，去年要去考虑的「终身」大事比较多，再加上年龄渐长对人生与社会有了更多的感悟，所以往往晚上 11 点多床上躺好，但总是想来想去直到 一、两 点才能入睡。感悟后面会谈到，不过这样睡不着，确不是我能控制的；其二，换了新室友之后，遗憾的是我们的作息规律基本不怎么一致，再加上他人活动难免的声响，后果便是早早上床然而还是睡不着。虽然我也有为了捍卫自己睡觉的权利而发表意见，但是能做室友本就是缘分，我自然也要尊重他们晚睡的权利，那么如此下来自是只能相互理解，我晚睡一点他们早睡一点了。<br />
+以上两点，我仅陈述事实，绝无有借此不早睡之心。但另外要说的是，时代在变化，生活环境也在变化，所以希望你们也能理解我晚睡的行为。<br />
+这里举一例子。前段时间看节目，一大腕去朋友家，见朋友小孩一边刷手机聊天，一边看视频，一边做作业，他就看不惯跟朋友说了。没想到朋友跟他说：「这孩子是学霸。现在的孩子跟我们不一样，他们就是能做到多线程处理事情，即使这样，他们照样能学好。」大概是这意思。考虑到这一大腕确实口碑颇好，再者结合我自己平时的一些观察，这一情况我私以为是有可信度的。<br />
+当然，我举此例，并不是说要像这孩子一样学。我想说的是，人是适应性很强、潜力很大的动物。想想小时候我是八点多就睡觉的，你们也是九点多睡觉吧。但自从智能手机兴起之后，普遍而言人们的入睡时间是变晚了的。所以从动态的角度考虑，早睡这一优良习惯在当代仍有其重要性的，但我们也要考虑，人的发展。<br />
+所以，我私以为，在目前的情况下，我尽量早睡，保证七小时左右的睡眠时间，在加上午睡，这样若是能维持一天基本精力充沛，再在平时多加锻炼，那就可以了。<br />
+当然，我还年轻，还不是养老的阶段，偶尔挑灯夜读也是必须的，这点希望你们也能理解，我也相信你们年轻的时候也有这样为了某一目标废寝忘食的时刻。<br />
+以上是我的想法与承诺，所以希望以后来电不要总为此唠叨，你们的关心我能够理解，但确实是有些厌烦了。</p>
+<p>另说交友一事，这似乎是昨夜交流的重点。首先让我纠正老爸你对我的一个错误的印象。有些时候你觉得在交友方面很少年老成，有一段时间我也是这么认为的。现在细想这似乎是不对的，因为似乎我其实根本就不是很理解什么是老成，或者说认识不充分。那么为什么我会让你产生这种错觉，我私以为也是两点原因。<br />
+其一，受小时候的经历的影响，个人性格的限制，虽然我内心是愿意与人交流结识朋友的，但是客观表现就是我不怎么愿意去跟没有什么瓜葛的人交流，这算是一种高冷吗？其二，交朋友我从不刻意，我看缘分，我更希望有那种水到渠成的感觉。结合起来就是，无事，我自不会去叨扰别人，虽然我并不介意别人来叨扰我；有事，我自会提出我的诉求，但我并不会为了什么去刻意维持与他人之间的关系。这种处事态度，自是隔断了与很多人交流的机会，但若是聊得来，我自会真心相待。<br />
+所以说来说去，私以为讲究的是一个顺其自然吧，希望你们能够理解。<br />
+顺便提一事，从小到大，很多饭局你们总是带着我去，那么你们跟哪些叔叔阿姨关系好，我自是有一定的了解的。但是我要说的是，父母的朋友自不是孩子的父母;父母朋友的孩子，也很可能不是孩子的朋友。<br />
+每个人都有自己的兴趣爱好、人生经历，那么与什么样的人交朋友自是人人不同。人一生中要遇到那么多人，所以很多时候能够建立起一种「熟人」关系就很不容易了，那么也就不必一定要去勉强成为「朋友」。<br />
+当然，插一段题外话，因为你们是朋友，所以他们就自然而然的对我有所关心，私以为这也是人情世故的一种。这些关心我是感受得到的，请你们放心。不然，很多时候你们说去看望一下谁，那我就不就直接拒绝了吗？</p>
+<p>再谈增配电脑一事。往大了说，人的欲望是难以琢磨的，往小了说，确实是我，内心欲望膨胀，一时难以把持。但幸好我素有大事与你们商量的习惯，所以很多时候就会由你们来帮我冷静一下。<br />
+也因此，上回回家说这件事见你们不甚同意，所以我也说那就不配了。那么，既然我说了不配，那如果没有其他变故那我自会不配，你们也就不用过多提及了，若是日后事情有变，我自会再提。</p>
+<p>前面聊了几件实事，那后面就来务一务虚，总结一下大学生活与经历，毕竟离本科阶段结束也就六个月左右的时间了，并且私以为现在很多事也有一些大体的判断了。<br />
+其实，这个话题以前早就想聊一聊了，但是每每都没能成功，现在想来想必一是时机太早，二是不够成熟吧。<br />
+那么首先，对大学前三年半做一个总结的话，那就是既充实也不充实。<br />
+先来说为什么不充实。这里我的错误很大，就是没能认清自己作为一个学生，本业是什么。更直白一点，就是我未能认真完成我本科课程中大部分课程的学习。<br />
+早在高中生时代，就有一批又一批老师、一波又一波学长学姐跟我们说，等到了大学就不一样了。没错确实不一样了，大学相较于之前，确实是更加自由开放了。随之而来的，是你有时间去干各种与专业课学习有关或者无关的事。并且，如果付出了，确实也能够收获很多东西，这里按住不表。<br />
+但是大学生大学生，这一名词里始终逃不开「学生」二字。那么，大学就应当是我们受教育的地方，并且，私以为对于大多数人而言，是接受一门完整的专业教育的地方，「不论你是否热爱这门专业」。<br />
+很遗憾，我没能做到。<br />
+这里说遗憾而不是后悔，那是因为私以为我是一个对于已经发生的事物保有乐观主义的人，当然是否有放任不管的嫌疑，这一点我是没有资格判断的。再者，现在一想，如果不是这样，我的 18 年可能就要平淡许多了吧，那我又还能成为现在的我吗？（所以确实是一个乐观主义者吗？）<br />
+再说为什么充实。利用大量时间，我经由游戏等娱乐活动与一些朋友之间维持了紧密的联系，我没有放弃对很多社会热点事件的关注并有一定自己的思考，我自学了很多计算机方面的技巧技术（可能还不能够称之为知识）等等等等。此间种种，都是点滴积累，而我也相信目前我也会一直用到这些东西。所以我也觉得充实。当然，由于涉猎广而不专导致获取的信息过于碎片化而不系统这是我要不断改进的地方。</p>
+<p>总结完毕，不知你们有何感受，再来说说不平凡的 18 年，再往前就实在是记忆模糊难以分析了。<br />
+就从三、四月份，决定是工作还是读研一事开始。记得那时，为了此事，老爸你和陈伯伯还特意来学校找我，希望我能够继续读下去。现在想来，你们是对的，那时的我太不成熟了。<br />
+要补充说明的是，这里的关键其实不是选择问题，而是你们阻止了不成熟的我作出一个不成熟的决定。为什么呢？<br />
+私以为当时的我过分低估了做成一件事所需要的决心与毅力。那时，我是想着花上半年多的时间学习编程然后就业的。虽然编程这一行业相较而言确实看中能力而非学历一些，基于此也有很多人本科毕业就可以混得很好。但是，从就业到混得好，二者之间是需要用大量的付出来填补的。当时的我其实连一点具体的计划都没有，就更不用谈有为之努力的信念了。<br />
+再到五、六月份，决定是跨考还是本专业。这个时候，我也还是没啥目标，所以自然就任由时间流失选择本专业偷懒了。<br />
+再到九月份，踩着末班车保研了。私以为物理学院人少名额又多后果就是感觉与其他学院想比水分太大配不上这一名额，但这句话颇有马后炮之嫌疑，然而事实就是这样了。再借用辅导员的一句话，大四可以过上猪一样的生活了。<br />
+不过，说实话，大四上这几个月我过得并不安稳。第一，我终于愿意承认自己对于物理乃至其他很多事物是做不到那种全身心的喜欢的了。所以，我很惶恐，我还要再学五年物理，这该怎么办？第二，生而为人，没有什么兴趣爱好能够全身心的投入，是不是太失败了？第三，我自认为自己是懂得很多大道理的，但是客观现实就是我摸鱼（可以理解为无所事事）太多，努力太少，到底是我的认识不够，还是我的决心不够，还是有什么其他的原因？<br />
+对于第一个问题，我的回答是，解决问题是能够给人带来快感的。当你切实感受到自己学到了东西，解决了问题，你是有一种充实感的，那么，这种正向反馈就能够提供你更多学习的欲望，解决问题的动力。化为实际，可能现在我还对物理爱得不够深沉，但是慢慢有了更多了解之后，说不定就喜欢上了呢？<br />
+对于第二个问题，我的回答是，这个问题提得不是很好，所以不算是个问题。<br />
+对于第三个问题，我很绝望，知行合一从来都是难事，我只能在将来的日子里继续提高认识磨练意志，以期做得更好。</p>
+<p>前面说了许多，如果对本文作一个总结的话，我认为有如下三点。<br />
+第一，对于大多数非英雄的普通人而言，不浑浑噩噩，能够顺势而为，尽自己之人事，就实属不易了。若是凭借自己的努力，以致能够稍稍改变一点点趋势的方向，那就应当是值得沾沾自喜的了。<br />
+第二，我们不仅仅要对自己看得起的人给予尊重，更要对与自己意见相左，乃至不听劝告，再乃至看不起的人予以尊重。每个人的经历都不一样，生活实属不易，对于他人，私以为我们应该理性地发表自己的意见，然后尊重他们的选择。也因为在我看来，面对选择不逃避，选择之后勇敢地为自己的选择承担责任，是一个人成熟的表现。<br />
+第三，我肯定不是一个西方人，但我自认为我也不是一个典型的中国人，所以对于中国社会上的很多习俗与现象我是不甚接受的。一个典型的例子就是买房子了。中国房价高昂从某种程度上来说是事实，但这并不能阻挡人们对于美好生活的向往，所以也就会有举全家之力去为儿女买房的现象了，这是一件很现实的事。但现实归现实，我们有选择接受与不接受的权利。我是向往着一种独立与自由的生活的，这不单单是物质上的，更是精神上的，所以我同样也希望你们也能够过上这样的生活。因此，你们为人父母，不愿意看见自己的孩子受苦，不希望看到自己的孩子走上哪怕一点弯路，总想帮孩子分担点生活的压力的想法与意愿，我如今慢慢是可以理解的，但我不希望这成为你们追求你们自己自由独立生活上的一种障碍，不希望你们忙碌完一辈子最后值得回味的只有自己的孩子。我希望你们在日常生活中不要总是想着我，然后降低了自己生活的品质，你们自己的喜好与生活同样值得你们花上真金白银去投票。再者，如今我也二十一岁了，你们也养育了我二十一年，此后几年，你们可能还要继续在经济上对我提供支援，但我觉得，这些，对于我，对于你们，对于这个家已经足够了。就如从小你们就教导我要注意个人卫生、注意锻炼身体、乐观看待事物，无非是为了我长大之后活得更好。对于你们的教导与期待我可能还完成得不够，但应当还是做到了一些了的。那么，我也就到了应当去直面生活中的一些压力的时候了，那些不应该由你们去承担的压力，你们也应该放下了。再借用两条套话以作补充：「儿孙自有儿孙福」、「解决问题的办法总比问题多」。</p>
+<p>再分享出我 18 年最喜欢的一句话，来自清华大学的梅赐琪老师：跟拯救世界保持距离。</p>
+<p>最后，沟通不易，希望这样一篇文章能够让你们对我近来之状况想法有更深入的了解。下周考试，压力略大，但保持沟通顺畅，关系重大，因此借由一纸书信娓娓道来这一慢方法，在我看来实属最快捷的沟通之法了。未能汇报清楚的，大可之后放假回家，再慢慢细聊。</p>
+<p>儿子敬呈</p>
+<p>2019 年 1 月 2 日 清晨</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>电子书的命名与归类</title>
+			<link>https://example.com/posts/20180829-ebookclassify/</link>
+			<pubDate>Wed, 29 Aug 2018 22:02:58 +0000</pubDate>
+			
+			<guid>https://example.com/posts/20180829-ebookclassify/</guid>
+			<description>现在我们肯定会在电脑上存储各种各样的电子资源，为这些资源进行有逻辑的命名与归类肯定有助于我们在需要的时候进行查找，下面我以电子书为例，谈谈我</description>
+			<content type="html"><![CDATA[<p>现在我们肯定会在电脑上存储各种各样的电子资源，为这些资源进行有逻辑的命名与归类肯定有助于我们在需要的时候进行查找，下面我以电子书为例，谈谈我的思路，仅供参考。 <!-- more --></p>
+<hr />
+<h1 id="命名">命名</h1>
+<p>电子书名称的命名按照如下规则：</p>
+<pre><code>[丛书名]作者_书名-副书名[上下册](版别)_特殊</code></pre>
+<p>说具体一点:</p>
+<ul>
+<li><code>作者</code> 一项只填第一作者或最有名的作者，如果实在需要，多名作者之间用英文逗号和空格即 <code>,</code> 进行分隔，另外外国人的姓名用其 lastname 就行，因为 firstname 极易重名；</li>
+<li><code>上下册</code>一项可能的命名有 <code>上册</code>, <code>上中册</code>, <code>上中下册</code>, <code>第1部</code>, <code>第1-3部</code>, <code>卷一</code>, <code>卷一二</code>, <code>卷一至五</code>, <code>VOL I</code>, <code>VOL II</code> 等;</li>
+<li><code>版别</code> 一项中文用类似 <code>第一版</code> 或 <code>第1版</code>，英文用类似 <code>2nd ed</code>;</li>
+<li><code>特殊</code> 一项用于标注一些额外的信息，比如这个电子书仅仅是某本书的目录，则相应填入 <code>目录</code> 或 <code>TOC</code></li>
+</ul>
+<p>这样，具体的命名实例如下：</p>
+<pre><code>Cohen_Quantum Mechanics_TOC.pdf
+Cohen_Quantum Mechanics[VOL II].pdf
+Cohen_Quantum Mechanics[VOL I].pdf
+Griffiths_Introduction to Quantum Mechanics(2nd ed).pdf
+Griffiths_Introduction to Quantum Mechanics(2nd ed)_Solutions.pdf
+Nazarov, Blanter_Quantum Transport-Introduction to Nanoscience.pdf
+袁松柳_固体物理_讲义.pdf
+鞠国兴_热物理概念-热力学与统计物理(第2版).pdf
+Kaku_超越时空-通过平行宇宙、时间卷曲和第十维度的科学之旅
+[理论物理基础系列教程 3]長岡洋介_电磁学[上册]
+Zinsser_On Writing Well-The Classic Guide to Writing Nonfiction(30th Anniversary Edition)
+Strunk_The Elements of Style(2011 Revised Edition)</code></pre>
+<p>可能会碰到附带有音频、图像或视频等资源的情形，那么就应该单独为该书建立一个文件夹，文件夹的命名与书籍的命名一致，再建立子目录 <code>附件</code> 存放附带的资源，例如：</p>
+<pre><code>----赖世雄_美版音标_扫描版
+    |--赖世雄_美版音标_扫描版.pdf
+    |--附件
+        |--p.002-p.003.mp3
+        |--p.004.mp3
+        |--p.005-p.006.mp3
+           ...</code></pre>
+<p>也可能碰到一本书含多个版本或同属一个系列的情况，那么也应为该书建立独立的文件夹，如:</p>
+<pre><code>----南派三叔_盗墓笔记[第一二季]
+    |--南派三叔_盗墓笔记[第一季].pdf
+    |--南派三叔_盗墓笔记[第二季].pdf
+        ...</code></pre>
+<h1 id="归类">归类</h1>
+<p>To be cotinued…</p>
+<h1 id="参考">参考</h1>
+<ul>
+<li><a href="!https://dazhuzai8.blogspot.com/2012/09/3.html">统一的电子书命名规则|dazhuzai8</a></li>
+<li><a href="!https://www.jianshu.com/p/b82231b06881">电子图书命名规范 - 简书</a></li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>生活不只是眼前的苟且，还有诗和远方</title>
+			<link>https://example.com/posts/20180807-rightherefaraway/</link>
+			<pubDate>Tue, 07 Aug 2018 00:25:16 +0000</pubDate>
+			
+			<guid>https://example.com/posts/20180807-rightherefaraway/</guid>
+			<description>朋友，干了这碗毒鸡汤吧。 今天值公寓岗的时候，和值班阿姨聊了会儿天。在晚上值班快要结束的时候，阿姨突然问我说：“你说为什么我的心怎么老是静不下</description>
+			<content type="html"><![CDATA[<p>朋友，干了这碗毒鸡汤吧。</p>
+<!-- more -->
+<hr />
+<p>今天值公寓岗的时候，和值班阿姨聊了会儿天。在晚上值班快要结束的时候，阿姨突然问我说：“你说为什么我的心怎么老是静不下来呢？有时候想要看点书也总是看不下去。”大概是这个意思。</p>
+<p>从之前跟她聊天得到的信息中，我知道了她目前和她老公以及婆婆住在一起。那位婆婆已经有 90 岁的高龄了，但是性格非常的古怪。阿姨说她最烦的一点就是有时候她在家做饭做得挺好吃的，她老公也觉得挺好的，但是婆婆就是看不惯，然后就要说她。说的事包括冬瓜炒的话要切成片不能切成块、豆腐脑要用碗而不能用杯子装等我们现在看来只是一些习惯上的一些小问题之类的事。<br />
+当然，可能站在老人的观点来看，这些都是涉及到一些习惯与传统的问题，必须要坚持原则，不能随便更改，但若站在我们后来人来看，这些真的只是习惯上的小事罢了，可能真的不必要处处挑刺。<br />
+对于这种情况，站在不同的角度我们很难说出谁对谁错，但这其中的对与错对于一个实实在在的生活着的人而言却并不是最重要的。关键在于，阿姨是要和她的婆婆生活在一起的，一方面老人是固执的但又要要尊重老人，而另一方面是阿姨不得不每天忍受婆婆的各种说教。<br />
+可能站在局外人的角度，你可以跟阿姨讲，要包容一点，心放宽一点。但问题是，无论你心放得有多宽你最终还是得忍受那些在你看来有点无关同样的说教，最后你的心情还是会受到影响，你最终还是会觉得烦。</p>
+<p>所以，当我把阿姨的内心不能平静归结于阿姨受婆婆而影响的心情上，然后试图用放宽心的思路去跟阿姨讲的时候，我完全说服不了阿姨。甚至，当我想到自己家里的一些事，我也有点跟阿姨一样，烦闷而无奈了起来。后面值班时间到了，我只得丢下一句“家家有本难念的经”，落荒而逃。</p>
+<p>回寝室的路上，我还在想着这个问题，只可惜依然不能跳脱宽心到烦闷无奈的循环。不过就在随便摸了会鱼然后洗澡的时候，一丝灵感出现了。因为这句话突然闪现在我的脑海里：“生活不只是眼前的苟且，还有诗和远方。”</p>
+<p>想了想前天值班时碰巧一起读的《牧羊少年奇幻之旅》和《活着》，我的答案似乎明晰了起来。</p>
+<p>《牧羊少年奇幻之旅》一书讲的是少年圣地亚哥实现其天命的故事。这一过程中的经历，圣地亚哥的心理变化，人与自然的关系等等，都通过一个寓言式的描述呈现了出来。我觉得，如果把概念放宽一点的话，把天命这种带有点宗教、神秘、玄学气息的东西延伸至儿时的梦想、自己的兴趣爱好等也是很可以的。<br />
+《活着》则讲的是福贵的一生。从其放纵狂妄的青壮年，到凄惨的中晚年，再到最后能够淡然地跟陌生人说出自己的所作所为。<br />
+就这么巧合，一本书似乎想说，人到底应该怎么活着，一本书似乎想说，人可能只是活着。</p>
+<p>读完这两本书之后，我试着从文化环境或者生活条件的角度去调和这两种有些相冲的主题思想，感觉有些道理，但又觉得还是不够。因为我觉得在外界条件及其恶劣的情况下，人能做的可能真的只是顽强地活下来，但是我是衷心希望每个人都能听到自己的心声，为了自己心中重要的东西而活下去，即使最终天命并没有实现。<br />
+直到晚上想到的苟且、诗、远方，我才感觉我有了点更明晰的答案。</p>
+<p>回到阿姨的问题上来，我现在能给出的办法是：把目光从生活中的种种不悦，转移到自己想做、乐意做的事情上来。<br />
+想想平时的生活，我们真的必须去面对种种不悦，心情必定受到影响，但又怎样呢？我们不应该让这些很丧的东西影响到我们追求人生中美丽之物时的心情。</p>
+<p>只是，现在的问题在于，你想要做什么呢？你有认真倾听你心的声音吗？</p>
+<hr />
+<p>ps: 除了上文中的两本，我今天只看了大半的《追风筝的人》也是一本很好的书，吃了这碗安利如何？嘿嘿嘿～～～</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>斐讯 K2 刷 LEDE 并配置 MentoHUST &amp; IPv6</title>
+			<link>https://example.com/posts/20180706-phicomledeipv6/</link>
+			<pubDate>Fri, 06 Jul 2018 00:49:38 +0000</pubDate>
+			
+			<guid>https://example.com/posts/20180706-phicomledeipv6/</guid>
+			<description>前几天正值考试之际，我他喵的居然刷起了路由器，真的是罪过罪过。 前置条件 由于斐讯的原厂系统基本不能满足各种折腾的需要，因此刷系统是必须的。一般</description>
+			<content type="html"><![CDATA[<p>前几天正值考试之际，我他喵的居然刷起了路由器，真的是罪过罪过。 <!-- more --></p>
+<hr />
+<h1 id="前置条件">前置条件</h1>
+<p>由于斐讯的原厂系统基本不能满足各种折腾的需要，因此刷系统是必须的。一般的思路都是刷完 Breed 之后刷 Pandavan，但是 Pandavan 比较难弄的的是子网中 IPv6 的配置。也就是为了这个 IPv6 我从已经用了快两年的 Pandavan 换到了 LEDE。<br />
+自然，这里说得前置条件就是路由器已经刷好了 Breed。由于相关教程网上很多，所以在此不做叙述。</p>
+<h1 id="安装-lede-与配置-mentohust">安装 LEDE 与配置 MentoHUST</h1>
+<p>从 OpenWrt 的官网我们可以找到适用于 K2 使用的刷机文件与各种软件的二进制安装包。之所以要找到软件的安装包是因为刷完 LEDE 之后你可能会玄学地发现有些联网必用的软件都没有，因此需要自己手动安装，然而此时路由器又无法联网，所以你懂的。<br />
+安装好 LEDE 之后，利用 scp 工具将 OpenWrt 可用的 MentoHUST 可执行文件（这个 GitHub 仓库里有一个已经编译好了的）传至路由器上，必要的话 <code>chmod</code> 增加可执行权限，并移动至 <code>/bin</code> 路径下（反正我移了）。<br />
+紧接着配置 MentoHUST 注意对于华科而言『用户名』是学号一定要注意首字母要大写大写大写（不要问我是怎么知道的），接着『组播地址』选 <code>1</code> 即 <code>锐捷</code>，『DHCP 方式』选 <code>1</code> 即 <code>二次认证</code>。其他学校的我不清楚，所以自己百度吧。如果始终认证不成功可能需要抓包，具体操作自行百度。<br />
+至此，路由器应该是可以成功认证并且联网了，不需要 IPv6 的童鞋就可以出门右转利用 opkg 或者自己编译进行更加深入的折腾了。</p>
+<h1 id="配置-ipv6">配置 IPv6</h1>
+<ol type="1">
+<li>利用 opkg 安装 <code>ip6tables</code> 与 <code>kmod-ipt-nat6</code> 两个包,其中二者分别提供 IPv6 的防火墙与 NAT 支持。</li>
+<li>修改文件 <code>/etc/config/network</code> 以添加一下字段，若已存在则可不修改或将前缀修改为自己喜欢的。 <code>bash  config globals 'globals'         option ula_prefix 'eeee:eeee:eeee::/48'</code> 这里实际上设置的是路由器子网中 IPv6 的 IP 池。</li>
+<li>为了让 OpenWRT 后面的设备始终能够获得 IPv6 网关，需要在 <code>/etc/config/dhcp</code> 文件的 <code>config dhcp 'lan'</code> 将 <code>option ra_default</code> 设置为 <code>1</code>。否则，由于默认分配的是私网地址，OpenWRT 不会向下游设备公布 IPv6 默认路由 (即网关)，可能导致路由器上 IPv6 连通但下游设备不通的情况。</li>
+<li>由于 OpenWrt 默认不会配置 IPv6的 NAT 表，因此需要在 <code>/etc/firewall.user</code> 文件中加入 <code>bash  WAN6=eth0  LAN=br-lan  ip6tables -t nat -A POSTROUTING -o $WAN6 -j MASQUERADE  ip6tables -A FORWARD -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT  ip6tables -A FORWARD -i $LAN -j ACCEPT</code> 其中 <code>WAN6</code> 与 <code>LAN</code> 都应改为 <code>ifconfig</code> 命令中所匹配的网卡名。</li>
+<li>在路由器上利用 <code>ip -6 route</code> 将得到如下结果： <code>bash  default from 2402:f000:x:xxxx::/64 via fe80::xxxx:xxxx:xxxx:xxxx dev eth0  proto static  metric 512</code> 可见默认网关为 <code>fe80::xxxx:xxxx:xxxx:xxxx</code>，我们需要将其加入路由表中，因此执行： <code>bash  route -A inet6 add default gw fe80::xxxx:xxxx:xxxx:xxxx dev eth0.2</code> 需要注意的是，这个命令在每次重启之后都需要被执行。</li>
+<li>如果 IPv6 访问不正常可能是 DNS 污染造成的，因此需要手动修改 WAN6 的 DNS。方法是在 <code>Network-&gt;Interfaces-&gt;WAN6-&gt;Edit-&gt;Common Configuration-&gt;Advanced Settings</code> 中取消勾选 <code>Use DNS servers advertised by peer</code> 并在 <code>Use custom DNS servers</code> 中设置可用的 IPv6 DNS 服务器（谷歌的是 <code>2001:4860:4860::8888</code> 与 <code>2001:4860:4860::8844</code>）。</li>
+</ol>
+<h1 id="开机自动运行">开机自动运行</h1>
+<p>MentoHUST 与 添加默认网关的命令都是需要开机自动执行的，当然 Linux 下开机自动执行的实现方式有很多种，这里给出在我的路由器上可用的一种方式。<br />
+在 <code>/etc/init.d/</code> 新建文件 <code>addipv6route</code>，内容为</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1"></a><span class="co">#!/bin/sh /etc/rc.common</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="co"># /etc/init.d/addipv6route</span></span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="va">START=</span>99</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="va">STOP=</span>10</span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="fu">start()</span></span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="kw">{</span></span>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="ex">route</span> -A inet6 add default gw fe80::1614:4bff:fe7d:4cbd dev eth0.2</span>
+<span id="cb1-8"><a href="#cb1-8"></a><span class="ex">logger</span> -t ipv6 <span class="st">&quot;***ipv6***&quot;</span></span>
+<span id="cb1-9"><a href="#cb1-9"></a><span class="kw">}</span></span>
+<span id="cb1-10"><a href="#cb1-10"></a><span class="fu">stop()</span></span>
+<span id="cb1-11"><a href="#cb1-11"></a><span class="kw">{</span></span>
+<span id="cb1-12"><a href="#cb1-12"></a><span class="ex">logger</span> -t ipv6 <span class="st">&quot;***ipv6***&quot;</span></span>
+<span id="cb1-13"><a href="#cb1-13"></a><span class="kw">}</span></span>
+<span id="cb1-14"><a href="#cb1-14"></a><span class="fu">restart()</span></span>
+<span id="cb1-15"><a href="#cb1-15"></a><span class="kw">{</span></span>
+<span id="cb1-16"><a href="#cb1-16"></a><span class="ex">stop</span></span>
+<span id="cb1-17"><a href="#cb1-17"></a><span class="ex">start</span></span>
+<span id="cb1-18"><a href="#cb1-18"></a><span class="kw">}</span></span></code></pre></div>
+<p>保存并修改权限为 <code>755</code>，建立软链接至 <code>/etc/ec.d/S99addipv6route</code>。 在 <code>/etc/init.d/</code> 新建文件 <code>mentohust</code>，内容为</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1"></a><span class="co">#!/bin/sh /etc/rc.common</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a><span class="co"># /etc/init.d/mentohust</span></span>
+<span id="cb2-3"><a href="#cb2-3"></a><span class="va">START=</span>99</span>
+<span id="cb2-4"><a href="#cb2-4"></a><span class="va">STOP=</span>10</span>
+<span id="cb2-5"><a href="#cb2-5"></a><span class="fu">start()</span></span>
+<span id="cb2-6"><a href="#cb2-6"></a><span class="kw">{</span></span>
+<span id="cb2-7"><a href="#cb2-7"></a><span class="ex">mentohust</span> <span class="kw">&amp;</span></span>
+<span id="cb2-8"><a href="#cb2-8"></a><span class="ex">logger</span> -t mentohust <span class="st">&quot;***mentohust***&quot;</span></span>
+<span id="cb2-9"><a href="#cb2-9"></a><span class="kw">}</span></span>
+<span id="cb2-10"><a href="#cb2-10"></a><span class="fu">stop()</span></span>
+<span id="cb2-11"><a href="#cb2-11"></a><span class="kw">{</span></span>
+<span id="cb2-12"><a href="#cb2-12"></a><span class="ex">mentohust</span> -k <span class="kw">&amp;</span></span>
+<span id="cb2-13"><a href="#cb2-13"></a><span class="kw">}</span></span>
+<span id="cb2-14"><a href="#cb2-14"></a><span class="fu">restart()</span></span>
+<span id="cb2-15"><a href="#cb2-15"></a><span class="kw">{</span></span>
+<span id="cb2-16"><a href="#cb2-16"></a><span class="ex">stop</span></span>
+<span id="cb2-17"><a href="#cb2-17"></a><span class="ex">start</span></span>
+<span id="cb2-18"><a href="#cb2-18"></a><span class="kw">}</span></span></code></pre></div>
+<p>保存并修改权限为 <code>755</code>，建立软链接至 <code>/etc/ec.d/S99mentohust</code>。</p>
+<h1 id="wifi-信号优化">WiFi 信号优化</h1>
+<p>这一步比较玄学，具体的原因我也不是很懂，所以我就说一下我是怎么调的，反正这样调完之后信号真的很不错。</p>
+<ol type="1">
+<li>将路由器平放与桌面上并将天线调整为比较正常的竖直向上的朝向（之前我就是因为把路由器竖着放而且改了两根天线的朝向所以不论怎么调信号都不好），当然一旦调好之后路由器怎么放似乎都影响不是特别大了。</li>
+<li>对于 5G，似乎信号确实与 LEDE 中设置的发射功率成正相关，故将 『Transmit Power』 的值设置为最大，即 <code>23dBm</code> 或 <code>20dBm</code>；对于 2.4G，一个有趣的现象是若将发射功率设置为最大则可能出现可以连上路由器但是无法上网的情况，所以我就将 『transmit Power』 设置为 <code>auto</code>。『Country Code』 将影响 <code>Transmit Power</code> 的最大值，因此也可以测试一下，但是我的设置为 <code>CN - China</code> 就已经可以满足我的需求了，所以就没继续测。</li>
+</ol>
+<p>最后的结果大概就是离路由器比较近的话 5G 的话跑到 10MB/s 完全没有问题，而 2.4G 的速度在 1~2MB/s。</p>
+<h1 id="参考资料">参考资料</h1>
+<ul>
+<li><a href="!http://www.right.com.cn/forum/thread-253712-1-1.html">Lede、PandoraBox IPv6 NAT66 的实战操作【亲测】</a></li>
+<li><a href="!https://github.com/tuna/ipv6.tsinghua.edu.cn/blob/master/openwrt.md">OpenWRT 路由器作为 IPv6 网关的配置</a></li>
+<li><a href="!https://medium.com/@invisprints/%E7%94%A8%E8%B7%AF%E7%94%B1%E5%99%A8%E8%BF%9E%E4%B8%8A-ipv6-%E7%BD%91%E7%BB%9C-f5193fd02712">用路由器连上 IPv6 网络</a></li>
+</ul>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
