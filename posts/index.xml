@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Hollow&#39;s Reserved Cabin</title>
-		<link>https://example.com/posts/</link>
+		<link>https://kevin77797.github.io/posts/</link>
 		<description>Recent content in Posts on Hollow&#39;s Reserved Cabin</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Sat, 26 Oct 2019 21:50:40 +0800</lastBuildDate>
-		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://kevin77797.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>My First Post</title>
-			<link>https://example.com/posts/20191027-my-first-post/</link>
+			<link>https://kevin77797.github.io/posts/20191027-my-first-post/</link>
 			<pubDate>Sat, 26 Oct 2019 21:50:40 +0800</pubDate>
 			
-			<guid>https://example.com/posts/20191027-my-first-post/</guid>
+			<guid>https://kevin77797.github.io/posts/20191027-my-first-post/</guid>
 			<description>Hello World! 你好，世界！ 行内公式测试：\(y = x\) 行间公式测试： \[ y = x \]</description>
 			<content type="html"><![CDATA[<p>Hello World!<br />
 你好，世界！<br />
@@ -28,10 +28,10 @@ y = x
 		
 		<item>
 			<title>给老爸老妈的一封信</title>
-			<link>https://example.com/posts/20190102-lettertoparents/</link>
+			<link>https://kevin77797.github.io/posts/20190102-lettertoparents/</link>
 			<pubDate>Wed, 02 Jan 2019 13:50:51 +0000</pubDate>
 			
-			<guid>https://example.com/posts/20190102-lettertoparents/</guid>
+			<guid>https://kevin77797.github.io/posts/20190102-lettertoparents/</guid>
 			<description>机缘巧合。 敬爱的老爸老妈， 昨夜与你们通电话后，思虑良久，感觉最近与你们沟通有些困难。既然出现了困难，想必是沟通得太少了。 辗转反侧，觉有必要向</description>
 			<content type="html"><![CDATA[<p>机缘巧合。</p>
 <!-- more -->
@@ -97,10 +97,10 @@ y = x
 		
 		<item>
 			<title>电子书的命名与归类</title>
-			<link>https://example.com/posts/20180829-ebookclassify/</link>
+			<link>https://kevin77797.github.io/posts/20180829-ebookclassify/</link>
 			<pubDate>Wed, 29 Aug 2018 22:02:58 +0000</pubDate>
 			
-			<guid>https://example.com/posts/20180829-ebookclassify/</guid>
+			<guid>https://kevin77797.github.io/posts/20180829-ebookclassify/</guid>
 			<description>现在我们肯定会在电脑上存储各种各样的电子资源，为这些资源进行有逻辑的命名与归类肯定有助于我们在需要的时候进行查找，下面我以电子书为例，谈谈我</description>
 			<content type="html"><![CDATA[<p>现在我们肯定会在电脑上存储各种各样的电子资源，为这些资源进行有逻辑的命名与归类肯定有助于我们在需要的时候进行查找，下面我以电子书为例，谈谈我的思路，仅供参考。 <!-- more --></p>
 <hr />
@@ -152,10 +152,10 @@ Strunk_The Elements of Style(2011 Revised Edition)</code></pre>
 		
 		<item>
 			<title>生活不只是眼前的苟且，还有诗和远方</title>
-			<link>https://example.com/posts/20180807-rightherefaraway/</link>
+			<link>https://kevin77797.github.io/posts/20180807-rightherefaraway/</link>
 			<pubDate>Tue, 07 Aug 2018 00:25:16 +0000</pubDate>
 			
-			<guid>https://example.com/posts/20180807-rightherefaraway/</guid>
+			<guid>https://kevin77797.github.io/posts/20180807-rightherefaraway/</guid>
 			<description>朋友，干了这碗毒鸡汤吧。 今天值公寓岗的时候，和值班阿姨聊了会儿天。在晚上值班快要结束的时候，阿姨突然问我说：“你说为什么我的心怎么老是静不下</description>
 			<content type="html"><![CDATA[<p>朋友，干了这碗毒鸡汤吧。</p>
 <!-- more -->
@@ -183,10 +183,10 @@ Strunk_The Elements of Style(2011 Revised Edition)</code></pre>
 		
 		<item>
 			<title>斐讯 K2 刷 LEDE 并配置 MentoHUST &amp; IPv6</title>
-			<link>https://example.com/posts/20180706-phicomledeipv6/</link>
+			<link>https://kevin77797.github.io/posts/20180706-phicomledeipv6/</link>
 			<pubDate>Fri, 06 Jul 2018 00:49:38 +0000</pubDate>
 			
-			<guid>https://example.com/posts/20180706-phicomledeipv6/</guid>
+			<guid>https://kevin77797.github.io/posts/20180706-phicomledeipv6/</guid>
 			<description>前几天正值考试之际，我他喵的居然刷起了路由器，真的是罪过罪过。 前置条件 由于斐讯的原厂系统基本不能满足各种折腾的需要，因此刷系统是必须的。一般</description>
 			<content type="html"><![CDATA[<p>前几天正值考试之际，我他喵的居然刷起了路由器，真的是罪过罪过。 <!-- more --></p>
 <hr />
