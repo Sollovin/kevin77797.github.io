@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hollow&#39;s Reserved Cabin</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2019 21:50:40 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 23:45:04 +0800</lastBuildDate>
     
 	<atom:link href="https://kevin77797.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>实用 Linux 入门教程--序</title>
+      <link>https://kevin77797.github.io/posts/linuxgo-preface/</link>
+      <pubDate>Sat, 09 Nov 2019 23:45:04 +0800</pubDate>
+      
+      <guid>https://kevin77797.github.io/posts/linuxgo-preface/</guid>
+      <description>为什么会有这个教程？ 最近在网上找了一下介绍 Linux 的入门教程或者书籍，没有找到能让我满意的。这里的不满意不是说这些教程写得不够好，而是说他们不够实</description>
+    </item>
     
     <item>
       <title>My First Post</title>
