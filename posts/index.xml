@@ -235,10 +235,10 @@ Strunk_The Elements of Style(2011 Revised Edition)</code></pre>
 <h1 id="配置-ipv6">配置 IPv6</h1>
 <ol type="1">
 <li>利用 opkg 安装 <code>ip6tables</code> 与 <code>kmod-ipt-nat6</code> 两个包,其中二者分别提供 IPv6 的防火墙与 NAT 支持。</li>
-<li>修改文件 <code>/etc/config/network</code> 以添加一下字段，若已存在则可不修改或将前缀修改为自己喜欢的。 <code>bash  config globals 'globals'         option ula_prefix 'eeee:eeee:eeee::/48'</code> 这里实际上设置的是路由器子网中 IPv6 的 IP 池。</li>
+<li>修改文件 <code>/etc/config/network</code> 以添加一下字段，若已存在则可不修改或将前缀修改为自己喜欢的。 <code>bash     config globals 'globals'            option ula_prefix 'eeee:eeee:eeee::/48'</code> 这里实际上设置的是路由器子网中 IPv6 的 IP 池。</li>
 <li>为了让 OpenWRT 后面的设备始终能够获得 IPv6 网关，需要在 <code>/etc/config/dhcp</code> 文件的 <code>config dhcp 'lan'</code> 将 <code>option ra_default</code> 设置为 <code>1</code>。否则，由于默认分配的是私网地址，OpenWRT 不会向下游设备公布 IPv6 默认路由 (即网关)，可能导致路由器上 IPv6 连通但下游设备不通的情况。</li>
-<li>由于 OpenWrt 默认不会配置 IPv6的 NAT 表，因此需要在 <code>/etc/firewall.user</code> 文件中加入 <code>bash  WAN6=eth0  LAN=br-lan  ip6tables -t nat -A POSTROUTING -o $WAN6 -j MASQUERADE  ip6tables -A FORWARD -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT  ip6tables -A FORWARD -i $LAN -j ACCEPT</code> 其中 <code>WAN6</code> 与 <code>LAN</code> 都应改为 <code>ifconfig</code> 命令中所匹配的网卡名。</li>
-<li>在路由器上利用 <code>ip -6 route</code> 将得到如下结果： <code>bash  default from 2402:f000:x:xxxx::/64 via fe80::xxxx:xxxx:xxxx:xxxx dev eth0  proto static  metric 512</code> 可见默认网关为 <code>fe80::xxxx:xxxx:xxxx:xxxx</code>，我们需要将其加入路由表中，因此执行： <code>bash  route -A inet6 add default gw fe80::xxxx:xxxx:xxxx:xxxx dev eth0.2</code> 需要注意的是，这个命令在每次重启之后都需要被执行。</li>
+<li>由于 OpenWrt 默认不会配置 IPv6的 NAT 表，因此需要在 <code>/etc/firewall.user</code> 文件中加入 <code>bash     WAN6=eth0     LAN=br-lan     ip6tables -t nat -A POSTROUTING -o $WAN6 -j MASQUERADE     ip6tables -A FORWARD -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT     ip6tables -A FORWARD -i $LAN -j ACCEPT</code> 其中 <code>WAN6</code> 与 <code>LAN</code> 都应改为 <code>ifconfig</code> 命令中所匹配的网卡名。</li>
+<li>在路由器上利用 <code>ip -6 route</code> 将得到如下结果： <code>bash     default from 2402:f000:x:xxxx::/64 via fe80::xxxx:xxxx:xxxx:xxxx dev eth0  proto static  metric 512</code> 可见默认网关为 <code>fe80::xxxx:xxxx:xxxx:xxxx</code>，我们需要将其加入路由表中，因此执行： <code>bash     route -A inet6 add default gw fe80::xxxx:xxxx:xxxx:xxxx dev eth0.2</code> 需要注意的是，这个命令在每次重启之后都需要被执行。</li>
 <li>如果 IPv6 访问不正常可能是 DNS 污染造成的，因此需要手动修改 WAN6 的 DNS。方法是在 <code>Network-&gt;Interfaces-&gt;WAN6-&gt;Edit-&gt;Common Configuration-&gt;Advanced Settings</code> 中取消勾选 <code>Use DNS servers advertised by peer</code> 并在 <code>Use custom DNS servers</code> 中设置可用的 IPv6 DNS 服务器（谷歌的是 <code>2001:4860:4860::8888</code> 与 <code>2001:4860:4860::8844</code>）。</li>
 </ol>
 <h1 id="开机自动运行">开机自动运行</h1>

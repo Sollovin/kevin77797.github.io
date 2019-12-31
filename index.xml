@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 09 Nov 2019 23:45:04 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 20:10:54 +0800</lastBuildDate>
     
 	<atom:link href="https://kevin77797.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Repeater</title>
+      <link>https://kevin77797.github.io/repeater/</link>
+      <pubDate>Tue, 31 Dec 2019 20:10:54 +0800</pubDate>
+      
+      <guid>https://kevin77797.github.io/repeater/</guid>
+      <description>2019-12-31 《普京访谈录》 每个人终将面对死亡，关键是，在这短暂的一生，我们取得了什么成就，是否享受过生活。 关键不在权利有多大，关键在于权利的获取途径是</description>
+    </item>
+    
+    <item>
+      <title>Collectomania</title>
+      <link>https://kevin77797.github.io/collectomania/</link>
+      <pubDate>Tue, 31 Dec 2019 20:04:26 +0800</pubDate>
+      
+      <guid>https://kevin77797.github.io/collectomania/</guid>
+      <description>Beamer Themes    Hugo Themes  hugo-theme-diary hermit  </description>
+    </item>
     
     <item>
       <title>实用 Linux 入门教程--序</title>
