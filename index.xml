@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 20:10:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 21:04:54 +0800</lastBuildDate>
     
 	<atom:link href="https://kevin77797.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>实用 Linux 入门教程--Part I：创建 Linux 虚拟机</title>
+      <link>https://kevin77797.github.io/posts/linuxgo-i/</link>
+      <pubDate>Mon, 27 Jan 2020 21:04:54 +0800</pubDate>
+      
+      <guid>https://kevin77797.github.io/posts/linuxgo-i/</guid>
+      <description>最初打算用图文说明整个安装过程，但是想想还是觉得做一个视频更方便也更清楚。因此有了这个视频。 建议按照视频中的演示把流程过一遍，碰到有不懂的地</description>
+    </item>
     
     <item>
       <title>Repeater</title>
